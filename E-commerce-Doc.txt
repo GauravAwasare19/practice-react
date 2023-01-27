@@ -1,0 +1,23 @@
+
+
+General E-Commerce Website
+
+Home page
+=> It should have the main navbar or menu which includes basic features.
+=> 1.Login/signup
+   2.Cart
+   3.Products or niche wise category
+   4.Customer service
+
+Features
+=> basic features are
+   1.Add to cart- it will add product to the cart
+   2.Buy now - it will directly take the interface into the bag and checkout
+   3.search - it will search the product availability
+=> we can also have a customer review/rating for the product
+
+Color Scheme
+=> have a duotone 
+=> can use chakra-ui to have a dark/light mode switch
+
+
